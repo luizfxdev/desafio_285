@@ -191,9 +191,9 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para detalhes.
 Contribuições são bem-vindas! Para contribuir:
 
 Fork o projeto
-Crie uma branch para sua feature (git checkout -b feature/AmazingFeature)
-Commit suas mudanças (git commit -m 'Add some AmazingFeature')
-Push para a branch (git push origin feature/AmazingFeature)
+Crie uma branch para sua feature (``git checkout -b feature/AmazingFeature``)
+Commit suas mudanças (``git commit -m 'Add some AmazingFeature'``)
+Push para a branch (``git push origin feature/AmazingFeature``)
 Abra um Pull Request
 
 ## 🧙‍♂️ Créditos
