@@ -184,7 +184,7 @@ Verifique console para erros
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://opensource.org/license/mit) para detalhes.
 
 ## 🤝 Contribuições
 
