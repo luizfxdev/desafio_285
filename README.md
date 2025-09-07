@@ -34,7 +34,9 @@ projeto/
 ### 2. Instalação
 
 Clone ou baixe todos os arquivos
+
 Adicione seu vídeo de background em `` assets/background.mp4 ``
+
 Abra ``index.html `` em qualquer navegador moderno
 
 ### 3. Utilização
@@ -45,9 +47,11 @@ Exemplo: `` 0, 47, 123 ``
 
 
 Clique em DESCOBRIR: Calcula os caminhos automaticamente
+
 Visualize os resultados:
 
 Cálculos detalhados passo a passo
+
 Caminho final das 10 salas
 
 
@@ -58,22 +62,31 @@ Clique em RETORNAR: Limpa todos os dados para nova consulta
 ### ✨ Design Mágico
 
 **Tema fantasia:** Cores roxas, violetas e douradas
+
 **Fontes elegantes:** Cinzel para títulos, Poppins para textos
+
 **Animações:** Botões com efeito rainbow glowing
+
 **Background:** Vídeo de fundo com overlay mágico
 
 ## 📱 Responsivo
 
 Desktop: Container à esquerda, botões lado a lado
+
 Tablet: Layout adaptativo
+
 Mobile: Botões empilhados, elementos proporcionais
 
 ## 🔧 Funcionalidades
 
 Validação de entrada: Apenas números inteiros
+
 Cálculos em tempo real: Algoritmo otimizado
+
 Resultados detalhados: Mostra cada passo do cálculo
+
 Interface limpa: Botão RETORNAR remove todos os dados
+
 Scroll personalizado: Barra de rolagem com tema mágico
 
 ## 🛠️ Tecnologias
