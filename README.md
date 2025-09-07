@@ -113,6 +113,7 @@ Validação em tempo real
 
 ```
 javascript
+
 // Exemplo de cálculo para sala 47
 47 + 74 (inverso) = 121 → Próxima sala: 1 (último dígito)
 1 + 1 (inverso) = 2 → Próxima sala: 2
@@ -148,17 +149,18 @@ Cores do Tema
 
 ```
 css
+
 /* Cores principais */
 --primary-purple: rgba(138, 43, 226, 0.8)
 --secondary-violet: rgba(168, 85, 247, 0.6)
 --accent-gold: #ffbf00
 --background-dark: rgba(30, 15, 60, 0.95)
-
+```
 Fontes
 
 Títulos: Cinzel (serif mágica)
 Textos: Poppins (sans-serif moderna)
-```
+
 
 ## 🐛 Troubleshooting
 
