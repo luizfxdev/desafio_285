@@ -110,6 +110,7 @@ Validação em tempo real
 
 
 ## 🎯 Algoritmo Principal
+
 ```
 javascript
 // Exemplo de cálculo para sala 47
@@ -118,6 +119,7 @@ javascript
 2 + 2 (inverso) = 4 → Próxima sala: 4
 // ... continua até completar 10 salas
 ```
+
 ## 🚀 Recursos Avançados
 
 Animações CSS
@@ -143,6 +145,7 @@ Arquivo de vídeo em `` assets/background.mp4 ``
 ## 🎨 Personalização
 
 Cores do Tema
+
 ```
 css
 /* Cores principais */
