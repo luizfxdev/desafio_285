@@ -110,13 +110,16 @@ Validação em tempo real
 
 
 ## 🎯 Algoritmo Principal
-javascript// Exemplo de cálculo para sala 47
+```
+javascript
+// Exemplo de cálculo para sala 47
 47 + 74 (inverso) = 121 → Próxima sala: 1 (último dígito)
 1 + 1 (inverso) = 2 → Próxima sala: 2
 2 + 2 (inverso) = 4 → Próxima sala: 4
 // ... continua até completar 10 salas
-
+```
 ## 🚀 Recursos Avançados
+
 Animações CSS
 
 Rainbow Glowing: Efeito de borda colorida nos botões
@@ -126,30 +129,36 @@ Hover Effects: Interações visuais nos elementos
 
 JavaScript Features
 
-Classe principal: MazeLabyrinth gerencia toda a aplicação
-Validação robusta: Entrada apenas de números inteiros
-Cálculos otimizados: Algoritmo eficiente para grandes números
-Debug integrado: Console logs para desenvolvimento
+**Classe principal:** `` MazeLabyrinth `` gerencia toda a aplicação
+**Validação robusta:** Entrada apenas de números inteiros
+**Cálculos otimizados:** Algoritmo eficiente para grandes números
+**Debug integrado:** Console logs para desenvolvimento
 
 ## 📋 Requisitos
 
 Navegador moderno (Chrome 60+, Firefox 55+, Safari 12+)
 JavaScript habilitado
-Arquivo de vídeo em assets/background.mp4
+Arquivo de vídeo em `` assets/background.mp4 ``
 
 ## 🎨 Personalização
+
 Cores do Tema
-css/* Cores principais */
+```
+css
+/* Cores principais */
 --primary-purple: rgba(138, 43, 226, 0.8)
 --secondary-violet: rgba(168, 85, 247, 0.6)
 --accent-gold: #ffbf00
 --background-dark: rgba(30, 15, 60, 0.95)
+
 Fontes
 
 Títulos: Cinzel (serif mágica)
 Textos: Poppins (sans-serif moderna)
+```
 
 ## 🐛 Troubleshooting
+
 Vídeo não aparece
 
 Verifique se o arquivo está em assets/background.mp4
