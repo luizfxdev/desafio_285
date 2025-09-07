@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Labirinto Dinâmico do Mago Lovindor</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Poppins:wght@300;400;500&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <!-- Vídeo de Background 4K - SIMPLIFICADO -->
+    <video autoplay muted loop id="background-video">
+      <source src="assets/background.mp4" type="video/mp4" />
+      Seu navegador não suporta vídeos HTML5.
+    </video>
+
+    <!-- Overlay para contraste -->
+    <div class="video-overlay"></div>
+
+    <!-- Conteúdo Principal -->
+    <div class="container">
+      <header class="header">
+        <h1 class="title">🧙‍♂️ Labirinto Dinâmico do Mago Lovindor</h1>
+        <p class="subtitle">Descubra o caminho através das salas mágicas</p>
+      </header>
+
+      <div class="input-section">
+        <label for="numbers-input" class="input-label">Números das Salas Iniciais:</label>
+        <input
+          type="text"
+          id="numbers-input"
+          class="magic-input"
+          placeholder="Ex: 0, 47, 123, 89"
+          aria-describedby="input-help"
+        />
+        <small id="input-help" class="input-help"> Digite os números das salas separados por vírgula </small>
+      </div>
+
+      <div class="buttons-section">
+        <button class="glow-on-hover discover-btn" type="button" id="discover-btn">DESCOBRIR</button>
+        <button class="glow-on-hover return-btn" type="button" id="return-btn">RETORNAR</button>
+      </div>
+
+      <div class="result-section" id="result-section">
+        <h3 class="result-title">🔮 Resultado da Jornada</h3>
+        <div class="calculation-details" id="calculation-details">
+          <!-- Cálculos detalhados aparecerão aqui -->
+        </div>
+        <div class="final-result" id="final-result">
+          <!-- Resultado final aparecerá aqui -->
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
